@@ -47,4 +47,4 @@ This project automates the process of extracting, transforming, and analyzing tr
 
 I wrote a detailed article explaining the process of building this pipeline. You can read it on Medium:
 
-[Building My First Data Pipeline: From Spotify API to SQL with Python](https://medium.com/@kaungsithu.sallius/building-my-first-data-pipeline-from-spotify-api-to-sql-with-python-fff78ca0376e)# Data-Pipeline-From-Spotify-API-to-SQL-with-Python
+[Building My First Data Pipeline: From Spotify API to SQL with Python](https://medium.com/@kaungsithu.sallius/building-my-first-data-pipeline-from-spotify-api-to-sql-with-python-fff78ca0376e)

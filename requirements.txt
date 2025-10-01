@@ -1,0 +1,6 @@
+pandas
+requests
+python-dotenv
+spotipy
+google-generativeai
+markdown
