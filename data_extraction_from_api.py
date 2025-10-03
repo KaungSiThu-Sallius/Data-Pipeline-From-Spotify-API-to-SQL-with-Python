@@ -89,4 +89,4 @@ for track in track_details:
     track_details_dict["popularity"].append(track['popularity'])
 
 df = pd.DataFrame(track_details_dict)
-df.to_csv("extracted_track_data.csv", index=False)
+df.to_csv("datasets/extracted_track_data.csv", index=False)
