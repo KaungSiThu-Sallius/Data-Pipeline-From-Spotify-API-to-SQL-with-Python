@@ -26,6 +26,7 @@ jobs:
             pip install -r requirements.txt
 
         - name: Run tests with pytest
+          working-directory: ./pipeline_python
           run: python -m pytest
 
   build-and-run:
