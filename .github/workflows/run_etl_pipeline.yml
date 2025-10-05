@@ -26,4 +26,4 @@ jobs:
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-        run: python etl_pipeline.py
+        run: python pipeline_python/etl_pipeline.py
