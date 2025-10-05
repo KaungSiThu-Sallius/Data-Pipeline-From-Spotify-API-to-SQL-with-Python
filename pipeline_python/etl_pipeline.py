@@ -149,6 +149,7 @@ def clean_and_transform_data(df: pd.DataFrame) -> pd.DataFrame:
     Returns:
         pd.DataFrame: A cleaned and transformed DataFrame containing track details.
     """
+    df = df.copy()
     df = df.drop_duplicates()
     df['popularity'] = df['popularity'].astype('int')
 
