@@ -4,3 +4,5 @@ python-dotenv
 spotipy
 google-generativeai
 markdown
+pytest
+
